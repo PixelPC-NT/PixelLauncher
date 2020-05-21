@@ -4,7 +4,7 @@
 
 ## Descargar
 
-- Descarga la ultima version [HERE](https://github.com/PixelPC-NT/AlternativeAPI/releases/latest)
+- Descarga la ultima version [HERE](https://github.com/PixelPC-NT/PixelLauncher/releases/latest)
 - Tutorial sobre el launcher [HERE](https://github.com/PixelPC-NT/PixelLauncher/tutorial.md)
 - Sistema de idioma / launcher lang system: [HERE](https://github.com/PixelPC-NT/PixelLauncher/language.md)
 - Dependencias [HERE](https://github.com/PixelPC-NT/PixelLauncher/dependencies.md)
