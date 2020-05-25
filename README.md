@@ -17,7 +17,6 @@ Coming Soon..
 ```
 ## Protection System
 
-- ignore.cfg
 ```
 - Anti Hack-MOD System (BETA).
 - Auto Kick when player is using hacks
